@@ -19,11 +19,11 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header text-center">
-                        <h1 class="card-title">Welcome to ErSalon</h1>
+                        <h1 class="card-title">Welcome to Halo</h1>
                     </div>
                     <div class="card-body text-center">
-                        <p class="card-text">ENJOY EVERY MESSAGE YOU GOT.</p>
-                        <a href="tabel.php" class="btn btn-primary">Click Here</a>
+                        <p class="card-text">This is a simple Bootstrap card component.</p>
+                        <a href="tabel.php" class="btn btn-primary">Get Started</a>
                     </div>
                 </div>
             </div>
